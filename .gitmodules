@@ -1,0 +1,3 @@
+[submodule "be-java-boilerplate"]
+	path = be-java-boilerplate
+	url = https://github.com/hassanmirza007/be-java-boilerplate.git
